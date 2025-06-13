@@ -1,2 +1,3 @@
-# Sql_Queries
-SQL Queries for projects
+# SQL
+
+All my SQL projects
